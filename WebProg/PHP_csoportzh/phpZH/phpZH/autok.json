@@ -1,0 +1,20 @@
+{
+    "car1": {
+        "rendszam": "abc",
+        "szin": "kek",
+        "gyarto": "vw",
+        "gyartasiev": "2010"
+    },
+    "car2": {
+        "rendszam": "masik",
+        "szin": "nemkek",
+        "gyarto": "nemvw",
+        "gyartasiev": "2020"
+    },
+    "0": {
+        "rendszam": "asdasd",
+        "szin": "asd",
+        "gyarto": "asd",
+        "gyartasiev": "2000"
+    }
+}
